@@ -1,0 +1,10 @@
+Script started on Wed 09 Dec 2015 13:28:07 GMT
+[2015-12-09 13:28:07]student@caine:~/forensicData/scripts$ sudo ls -alitRu /mnt/ analyz[Ksis/ > files.list
+[sudo] password for student: 
+[2015-12-09 13:28:52]student@caine:~/forensicData/scripts$ chmod 444 files.list  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K 
+[2015-12-09 13:29:12]student@caine:~/forensicData/scripts$ sudo md5sum files.listt > file.list.md5
+[2015-12-09 13:29:24]student@caine:~/forensicData/scripts$ sudo find /mnt/analysiis/ -tye[Kpe f | wc -l
+64
+[2015-12-09 13:29:40]student@caine:~/forensicData/scripts$ exit
+
+Script done on Wed 09 Dec 2015 13:30:10 GMT

@@ -1,0 +1,366 @@
+Xxx Xxx 00 0000 00:00:00     3686 ..c. r/rrwxrwxrwx 0        0        100998   C:/WalkingDirections/GlenCoe.txt (deleted)
+                             4269 ..c. r/rrwxrwxrwx 0        0        101001   C:/WalkingDirections/MoorfootHills.txt (deleted)
+                             3232 ..c. r/rrwxrwxrwx 0        0        101004   C:/WalkingDirections/MurderHole.txt
+                             3293 ..c. r/rrwxrwxrwx 0        0        101006   C:/WalkingDirections/NorthFace.txt
+                             3538 ..c. r/rrwxrwxrwx 0        0        101009   C:/WalkingDirections/PapOfGlencoe.txt (deleted)
+                             2162 ..c. r/rrwxrwxrwx 0        0        101012   C:/WalkingDirections/StacPollaidh.txt
+                             4178 ..c. r/rrwxrwxrwx 0        0        101015   C:/WalkingDirections/ThreeBrethren.txt
+                             2329 ..c. r/rrwxrwxrwx 0        0        101018   C:/WalkingDirections/TorridonTrek.txt (deleted)
+                             4089 ..c. r/rrwxrwxrwx 0        0        101021   C:/WalkingDirections/WalkingOnWater.txt
+                             6032 ..c. r/rrwxrwxrwx 0        0        101024   C:/WalkingDirections/WanderingWildWest.txt (deleted)
+                             4089 ..c. r/rrwxrwxrwx 0        0        101027   C:/WalkingDirections/.gedit-save-RMEMRW (deleted)
+                             3697 ..c. r/rrwxrwxrwx 0        0        101029   C:/WalkingDirections/GlenCoe.txt~
+                             3547 ..c. r/rrwxrwxrwx 0        0        101032   C:/WalkingDirections/PapOfGlencoe.txt~
+                             4098 ..c. r/rrwxrwxrwx 0        0        101035   C:/WalkingDirections/WalkingOnWater.txt~
+                             4096 ..c. d/drwxrwxrwx 0        0        102918   C:/Images/AonachEagach
+                             4096 ..c. d/drwxrwxrwx 0        0        102920   C:/Images/Etive
+                             4096 ..c. d/drwxrwxrwx 0        0        102922   C:/Images/LandScapes
+                          3340246 ..c. r/rrwxrwxrwx 0        0        103047   C:/Images/AonachEagach/AonachEagachRidgeNorth.jpg
+                           146767 ..c. r/rrwxrwxrwx 0        0        103050   C:/Images/AonachEagach/AonachEagachRidgeSouth.jpg
+                             4096 ..c. d/drwxrwxrwx 0        0        11       C:/Images
+                             4096 ..c. d/drwxrwxrwx 0        0        13       C:/MapData
+                             4096 ..c. d/drwxrwxrwx 0        0        212230   C:/Images/Etive/Buachaille
+                             4096 ..c. d/drwxrwxrwx 0        0        212232   C:/Images/Etive/Glen
+                             4096 ..c. d/drwxrwxrwx 0        0        212234   C:/Images/Etive/WildLife
+                           786755 ..c. r/rrwxrwxrwx 0        0        212360   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-1.jpg
+                          1046534 ..c. r/rrwxrwxrwx 0        0        212364   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-2.jpg
+                           295089 ..c. r/rrwxrwxrwx 0        0        212368   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-3.jpg
+                           231422 ..c. r/rrwxrwxrwx 0        0        212372   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-4.jpg (deleted)
+                           273500 ..c. r/rrwxrwxrwx 0        0        212376   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-1.jpg
+                           353621 ..c. r/rrwxrwxrwx 0        0        212380   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-2.jpg
+                           392549 ..c. r/rrwxrwxrwx 0        0        212384   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-3.jpg
+                           123715 ..c. r/rrwxrwxrwx 0        0        212388   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-1.jpg
+                           322953 ..c. r/rrwxrwxrwx 0        0        212392   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-2.jpg
+                           276706 ..c. r/rrwxrwxrwx 0        0        212396   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-3.jpg
+                           341603 ..c. r/rrwxrwxrwx 0        0        212400   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-4.jpg
+                           347316 ..c. r/rrwxrwxrwx 0        0        212404   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-6.jpg
+                           495956 ..c. r/rrwxrwxrwx 0        0        212408   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-7.jpg
+                           147479 ..c. r/rrwxrwxrwx 0        0        212411   C:/Images/Etive/Buachaille/BuachailleEtiveMor.jpg (deleted)
+                           147479 ..c. r/rrwxrwxrwx 0        0        212414   C:/Images/Etive/Buachaille/.goutputstream-II4RRW (deleted)
+                                0 ..c. r/rrwxrwxrwx 0        0        3        C:/ETIVE       (Volume Label Entry)
+                           418547 ..c. r/rrwxrwxrwx 0        0        383623   C:/Images/Etive/Glen/GlencoeLochan.jpg
+                           175199 ..c. r/rrwxrwxrwx 0        0        383625   C:/Images/Etive/Glen/LowCloud.jpg
+                           327632 ..c. r/rrwxrwxrwx 0        0        383628   C:/Images/Etive/Glen/ThreeSisters.jpg
+                           311487 ..c. r/rrwxrwxrwx 0        0        412678   C:/Images/Etive/WildLife/Stag(BW).jpg
+                           213834 ..c. r/rrwxrwxrwx 0        0        412681   C:/Images/Etive/WildLife/Stag(Landscape).jpg
+                           563811 ..c. r/rrwxrwxrwx 0        0        412684   C:/Images/Etive/WildLife/Stag(Rannoch Moor).jpg
+                             4096 ..c. d/drwxrwxrwx 0        0        447110   C:/Images/LandScapes/CityScapes
+                             4096 ..c. d/drwxrwxrwx 0        0        447112   C:/Images/LandScapes/Costal
+                             4096 ..c. d/drwxrwxrwx 0        0        447114   C:/Images/LandScapes/Harbours
+                             4096 ..c. d/drwxrwxrwx 0        0        447116   C:/Images/LandScapes/Highlands
+                           384864 ..c. r/rrwxrwxrwx 0        0        447238   C:/Images/LandScapes/CityScapes/Edinburgh.jpg
+                           309821 ..c. r/rrwxrwxrwx 0        0        459399   C:/Images/LandScapes/Costal/CostalLandscape-1.jpg
+                           220687 ..c. r/rrwxrwxrwx 0        0        459402   C:/Images/LandScapes/Costal/CostalLandscape-2.jpg
+                           164781 ..c. r/rrwxrwxrwx 0        0        459405   C:/Images/LandScapes/Costal/CostalLandscape-3.jpg
+                           283491 ..c. r/rrwxrwxrwx 0        0        459408   C:/Images/LandScapes/Costal/CostalLandscape-4.jpg
+                           449805 ..c. r/rrwxrwxrwx 0        0        459411   C:/Images/LandScapes/Costal/CostalLandscape-5.jpg
+                           372434 ..c. r/rrwxrwxrwx 0        0        504455   C:/Images/LandScapes/Harbours/HarbourLandscape-1.jpg
+                           350316 ..c. r/rrwxrwxrwx 0        0        504458   C:/Images/LandScapes/Harbours/HarbourLandscape-2.jpg
+                           175388 ..c. r/rrwxrwxrwx 0        0        504461   C:/Images/LandScapes/Harbours/HarbourLandscape-3.jpg
+                           359579 ..c. r/rrwxrwxrwx 0        0        504464   C:/Images/LandScapes/Harbours/HarbourLandscape-4.jpg
+                           248664 ..c. r/rrwxrwxrwx 0        0        504467   C:/Images/LandScapes/Harbours/HarbourLandscape-5.jpg
+                           493151 ..c. r/rrwxrwxrwx 0        0        551815   C:/Images/LandScapes/Highlands/Landscape00.jpg
+                           401335 ..c. r/rrwxrwxrwx 0        0        551818   C:/Images/LandScapes/Highlands/Landscape01.jpg
+                           410970 ..c. r/rrwxrwxrwx 0        0        551821   C:/Images/LandScapes/Highlands/Landscape02.jpg
+                           313046 ..c. r/rrwxrwxrwx 0        0        551824   C:/Images/LandScapes/Highlands/Landscape03.jpg (deleted)
+                           329543 ..c. r/rrwxrwxrwx 0        0        551827   C:/Images/LandScapes/Highlands/Landscape04.jpg
+                           328973 ..c. r/rrwxrwxrwx 0        0        551830   C:/Images/LandScapes/Highlands/Landscape05.jpg
+                           387096 ..c. r/rrwxrwxrwx 0        0        551833   C:/Images/LandScapes/Highlands/Landscape06.jpg
+                           329224 ..c. r/rrwxrwxrwx 0        0        551836   C:/Images/LandScapes/Highlands/Landscape07.jpg (deleted)
+                           345380 ..c. r/rrwxrwxrwx 0        0        551839   C:/Images/LandScapes/Highlands/Landscape08.jpg
+                           290187 ..c. r/rrwxrwxrwx 0        0        551842   C:/Images/LandScapes/Highlands/Landscape09.jpg
+                           440859 ..c. r/rrwxrwxrwx 0        0        551845   C:/Images/LandScapes/Highlands/Landscape10.jpg
+                           435853 ..c. r/rrwxrwxrwx 0        0        551848   C:/Images/LandScapes/Highlands/Landscape11.jpg (deleted)
+                           371233 ..c. r/rrwxrwxrwx 0        0        551851   C:/Images/LandScapes/Highlands/Landscape12.jpg
+                          3224217 ..c. r/rrwxrwxrwx 0        0        6        C:/WHW_Booklet_2012_final.pdf (deleted)
+                             4096 ..c. d/drwxrwxrwx 0        0        705158   C:/MapData/GPX WayPoints
+                             4096 ..c. d/drwxrwxrwx 0        0        705160   C:/MapData/Images
+                             4096 ..c. d/drwxrwxrwx 0        0        705162   C:/MapData/RouteMaps
+                            15983 ..c. r/rrwxrwxrwx 0        0        705287   C:/MapData/GPX WayPoints/aonacheagach.gpx
+                            29092 ..c. r/rrwxrwxrwx 0        0        705290   C:/MapData/GPX WayPoints/blackwater.gpx
+                          4075446 ..c. r/rrwxrwxrwx 0        0        705293   C:/MapData/GPX WayPoints/buachailleetivebeag.gpx
+                             7331 ..c. r/rrwxrwxrwx 0        0        705296   C:/MapData/GPX WayPoints/buachailleetivemor.gpx
+                             3186 ..c. r/rrwxrwxrwx 0        0        705299   C:/MapData/GPX WayPoints/papofglencoe.kmz
+                             4025 ..c. r/rrwxrwxrwx 0        0        834695   C:/MapData/Images/AonachEagach.jpg
+                           449170 ..c. r/rrwxrwxrwx 0        0        834697   C:/MapData/Images/Cullins.jpg
+                           397221 ..c. r/rrwxrwxrwx 0        0        834699   C:/MapData/Images/GlenCoe.jpg
+                          1135231 ..c. r/rrwxrwxrwx 0        0        834702   C:/MapData/Images/GlenCreran.jpg
+                          1510886 ..c. r/rrwxrwxrwx 0        0        834704   C:/MapData/Images/GlenEtive.jpg
+                             4096 ..c. d/drwxrwxrwx 0        0        9        C:/WalkingDirections
+                           693165 ..c. r/rrwxrwxrwx 0        0        944264   C:/MapData/RouteMaps/Aonach Eagach - Route Map.pdf
+                           423896 ..c. r/rrwxrwxrwx 0        0        944269   C:/MapData/RouteMaps/Blackwater Reservoir, Kinlochleven - Route Map.pdf
+                           922521 ..c. r/rrwxrwxrwx 0        0        944273   C:/MapData/RouteMaps/Buachaille Etive Mor - Route Map.pdf
+                           331152 ..c. r/rrwxrwxrwx 0        0        944277   C:/MapData/RouteMaps/Glencoe Lochan trails - Route Map.pdf
+                           753822 ..c. r/rrwxrwxrwx 0        0        944283   C:/MapData/RouteMaps/Lost Valley (Coire Gabhail), Glen Coe - Route Map.pdf
+Wed Dec 12 2007 15:19:56    29092 m... r/rrwxrwxrwx 0        0        705290   C:/MapData/GPX WayPoints/blackwater.gpx
+Wed Apr 13 2011 07:55:24     7331 m... r/rrwxrwxrwx 0        0        705296   C:/MapData/GPX WayPoints/buachailleetivemor.gpx
+Mon Jan 02 2012 13:58:38    15983 m... r/rrwxrwxrwx 0        0        705287   C:/MapData/GPX WayPoints/aonacheagach.gpx
+Mon Jun 04 2012 17:20:48     3186 m... r/rrwxrwxrwx 0        0        705299   C:/MapData/GPX WayPoints/papofglencoe.kmz
+Thu Nov 08 2012 13:31:14  4075446 m... r/rrwxrwxrwx 0        0        705293   C:/MapData/GPX WayPoints/buachailleetivebeag.gpx
+Fri Jan 25 2013 00:00:00     3686 .a.. r/rrwxrwxrwx 0        0        100998   C:/WalkingDirections/GlenCoe.txt (deleted)
+                             4269 .a.. r/rrwxrwxrwx 0        0        101001   C:/WalkingDirections/MoorfootHills.txt (deleted)
+                             3232 .a.. r/rrwxrwxrwx 0        0        101004   C:/WalkingDirections/MurderHole.txt
+                             3293 .a.. r/rrwxrwxrwx 0        0        101006   C:/WalkingDirections/NorthFace.txt
+                             3538 .a.. r/rrwxrwxrwx 0        0        101009   C:/WalkingDirections/PapOfGlencoe.txt (deleted)
+                             2162 .a.. r/rrwxrwxrwx 0        0        101012   C:/WalkingDirections/StacPollaidh.txt
+                             4178 .a.. r/rrwxrwxrwx 0        0        101015   C:/WalkingDirections/ThreeBrethren.txt
+                             2329 .a.. r/rrwxrwxrwx 0        0        101018   C:/WalkingDirections/TorridonTrek.txt (deleted)
+                             4089 .a.. r/rrwxrwxrwx 0        0        101021   C:/WalkingDirections/WalkingOnWater.txt
+                             6032 .a.. r/rrwxrwxrwx 0        0        101024   C:/WalkingDirections/WanderingWildWest.txt (deleted)
+                             4089 .a.. r/rrwxrwxrwx 0        0        101027   C:/WalkingDirections/.gedit-save-RMEMRW (deleted)
+                             3697 .a.. r/rrwxrwxrwx 0        0        101029   C:/WalkingDirections/GlenCoe.txt~
+                             3547 .a.. r/rrwxrwxrwx 0        0        101032   C:/WalkingDirections/PapOfGlencoe.txt~
+                             4098 .a.. r/rrwxrwxrwx 0        0        101035   C:/WalkingDirections/WalkingOnWater.txt~
+                             4096 .a.. d/drwxrwxrwx 0        0        102918   C:/Images/AonachEagach
+                             4096 .a.. d/drwxrwxrwx 0        0        102920   C:/Images/Etive
+                             4096 .a.. d/drwxrwxrwx 0        0        102922   C:/Images/LandScapes
+                          3340246 .a.. r/rrwxrwxrwx 0        0        103047   C:/Images/AonachEagach/AonachEagachRidgeNorth.jpg
+                           146767 .a.. r/rrwxrwxrwx 0        0        103050   C:/Images/AonachEagach/AonachEagachRidgeSouth.jpg
+                             4096 .a.. d/drwxrwxrwx 0        0        11       C:/Images
+                             4096 .a.. d/drwxrwxrwx 0        0        13       C:/MapData
+                             4096 .a.. d/drwxrwxrwx 0        0        212230   C:/Images/Etive/Buachaille
+                             4096 .a.. d/drwxrwxrwx 0        0        212232   C:/Images/Etive/Glen
+                             4096 .a.. d/drwxrwxrwx 0        0        212234   C:/Images/Etive/WildLife
+                           786755 .a.. r/rrwxrwxrwx 0        0        212360   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-1.jpg
+                          1046534 .a.. r/rrwxrwxrwx 0        0        212364   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-2.jpg
+                           295089 .a.. r/rrwxrwxrwx 0        0        212368   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-3.jpg
+                           231422 .a.. r/rrwxrwxrwx 0        0        212372   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-4.jpg (deleted)
+                           273500 .a.. r/rrwxrwxrwx 0        0        212376   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-1.jpg
+                           353621 .a.. r/rrwxrwxrwx 0        0        212380   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-2.jpg
+                           392549 .a.. r/rrwxrwxrwx 0        0        212384   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-3.jpg
+                           123715 .a.. r/rrwxrwxrwx 0        0        212388   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-1.jpg
+                           322953 .a.. r/rrwxrwxrwx 0        0        212392   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-2.jpg
+                           276706 .a.. r/rrwxrwxrwx 0        0        212396   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-3.jpg
+                           341603 .a.. r/rrwxrwxrwx 0        0        212400   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-4.jpg
+                           347316 .a.. r/rrwxrwxrwx 0        0        212404   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-6.jpg
+                           495956 .a.. r/rrwxrwxrwx 0        0        212408   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-7.jpg
+                           147479 .a.. r/rrwxrwxrwx 0        0        212411   C:/Images/Etive/Buachaille/BuachailleEtiveMor.jpg (deleted)
+                           147479 .a.. r/rrwxrwxrwx 0        0        212414   C:/Images/Etive/Buachaille/.goutputstream-II4RRW (deleted)
+                                0 .a.. r/rrwxrwxrwx 0        0        3        C:/ETIVE       (Volume Label Entry)
+                           418547 .a.. r/rrwxrwxrwx 0        0        383623   C:/Images/Etive/Glen/GlencoeLochan.jpg
+                           175199 .a.. r/rrwxrwxrwx 0        0        383625   C:/Images/Etive/Glen/LowCloud.jpg
+                           327632 .a.. r/rrwxrwxrwx 0        0        383628   C:/Images/Etive/Glen/ThreeSisters.jpg
+                           311487 .a.. r/rrwxrwxrwx 0        0        412678   C:/Images/Etive/WildLife/Stag(BW).jpg
+                           213834 .a.. r/rrwxrwxrwx 0        0        412681   C:/Images/Etive/WildLife/Stag(Landscape).jpg
+                           563811 .a.. r/rrwxrwxrwx 0        0        412684   C:/Images/Etive/WildLife/Stag(Rannoch Moor).jpg
+                             4096 .a.. d/drwxrwxrwx 0        0        447110   C:/Images/LandScapes/CityScapes
+                             4096 .a.. d/drwxrwxrwx 0        0        447112   C:/Images/LandScapes/Costal
+                             4096 .a.. d/drwxrwxrwx 0        0        447114   C:/Images/LandScapes/Harbours
+                             4096 .a.. d/drwxrwxrwx 0        0        447116   C:/Images/LandScapes/Highlands
+                           384864 .a.. r/rrwxrwxrwx 0        0        447238   C:/Images/LandScapes/CityScapes/Edinburgh.jpg
+                           309821 .a.. r/rrwxrwxrwx 0        0        459399   C:/Images/LandScapes/Costal/CostalLandscape-1.jpg
+                           220687 .a.. r/rrwxrwxrwx 0        0        459402   C:/Images/LandScapes/Costal/CostalLandscape-2.jpg
+                           164781 .a.. r/rrwxrwxrwx 0        0        459405   C:/Images/LandScapes/Costal/CostalLandscape-3.jpg
+                           283491 .a.. r/rrwxrwxrwx 0        0        459408   C:/Images/LandScapes/Costal/CostalLandscape-4.jpg
+                           449805 .a.. r/rrwxrwxrwx 0        0        459411   C:/Images/LandScapes/Costal/CostalLandscape-5.jpg
+                           372434 .a.. r/rrwxrwxrwx 0        0        504455   C:/Images/LandScapes/Harbours/HarbourLandscape-1.jpg
+                           350316 .a.. r/rrwxrwxrwx 0        0        504458   C:/Images/LandScapes/Harbours/HarbourLandscape-2.jpg
+                           175388 .a.. r/rrwxrwxrwx 0        0        504461   C:/Images/LandScapes/Harbours/HarbourLandscape-3.jpg
+                           359579 .a.. r/rrwxrwxrwx 0        0        504464   C:/Images/LandScapes/Harbours/HarbourLandscape-4.jpg
+                           248664 .a.. r/rrwxrwxrwx 0        0        504467   C:/Images/LandScapes/Harbours/HarbourLandscape-5.jpg
+                           493151 .a.. r/rrwxrwxrwx 0        0        551815   C:/Images/LandScapes/Highlands/Landscape00.jpg
+                           401335 .a.. r/rrwxrwxrwx 0        0        551818   C:/Images/LandScapes/Highlands/Landscape01.jpg
+                           410970 .a.. r/rrwxrwxrwx 0        0        551821   C:/Images/LandScapes/Highlands/Landscape02.jpg
+                           313046 .a.. r/rrwxrwxrwx 0        0        551824   C:/Images/LandScapes/Highlands/Landscape03.jpg (deleted)
+                           329543 .a.. r/rrwxrwxrwx 0        0        551827   C:/Images/LandScapes/Highlands/Landscape04.jpg
+                           328973 .a.. r/rrwxrwxrwx 0        0        551830   C:/Images/LandScapes/Highlands/Landscape05.jpg
+                           387096 .a.. r/rrwxrwxrwx 0        0        551833   C:/Images/LandScapes/Highlands/Landscape06.jpg
+                           329224 .a.. r/rrwxrwxrwx 0        0        551836   C:/Images/LandScapes/Highlands/Landscape07.jpg (deleted)
+                           345380 .a.. r/rrwxrwxrwx 0        0        551839   C:/Images/LandScapes/Highlands/Landscape08.jpg
+                           290187 .a.. r/rrwxrwxrwx 0        0        551842   C:/Images/LandScapes/Highlands/Landscape09.jpg
+                           440859 .a.. r/rrwxrwxrwx 0        0        551845   C:/Images/LandScapes/Highlands/Landscape10.jpg
+                           435853 .a.. r/rrwxrwxrwx 0        0        551848   C:/Images/LandScapes/Highlands/Landscape11.jpg (deleted)
+                           371233 .a.. r/rrwxrwxrwx 0        0        551851   C:/Images/LandScapes/Highlands/Landscape12.jpg
+                          3224217 .a.. r/rrwxrwxrwx 0        0        6        C:/WHW_Booklet_2012_final.pdf (deleted)
+                             4096 .a.. d/drwxrwxrwx 0        0        705158   C:/MapData/GPX WayPoints
+                             4096 .a.. d/drwxrwxrwx 0        0        705160   C:/MapData/Images
+                             4096 .a.. d/drwxrwxrwx 0        0        705162   C:/MapData/RouteMaps
+                            15983 .a.. r/rrwxrwxrwx 0        0        705287   C:/MapData/GPX WayPoints/aonacheagach.gpx
+                            29092 .a.. r/rrwxrwxrwx 0        0        705290   C:/MapData/GPX WayPoints/blackwater.gpx
+                          4075446 .a.. r/rrwxrwxrwx 0        0        705293   C:/MapData/GPX WayPoints/buachailleetivebeag.gpx
+                             7331 .a.. r/rrwxrwxrwx 0        0        705296   C:/MapData/GPX WayPoints/buachailleetivemor.gpx
+                             3186 .a.. r/rrwxrwxrwx 0        0        705299   C:/MapData/GPX WayPoints/papofglencoe.kmz
+                             4025 .a.. r/rrwxrwxrwx 0        0        834695   C:/MapData/Images/AonachEagach.jpg
+                           449170 .a.. r/rrwxrwxrwx 0        0        834697   C:/MapData/Images/Cullins.jpg
+                           397221 .a.. r/rrwxrwxrwx 0        0        834699   C:/MapData/Images/GlenCoe.jpg
+                          1135231 .a.. r/rrwxrwxrwx 0        0        834702   C:/MapData/Images/GlenCreran.jpg
+                          1510886 .a.. r/rrwxrwxrwx 0        0        834704   C:/MapData/Images/GlenEtive.jpg
+                             4096 .a.. d/drwxrwxrwx 0        0        9        C:/WalkingDirections
+                           693165 .a.. r/rrwxrwxrwx 0        0        944264   C:/MapData/RouteMaps/Aonach Eagach - Route Map.pdf
+                           423896 .a.. r/rrwxrwxrwx 0        0        944269   C:/MapData/RouteMaps/Blackwater Reservoir, Kinlochleven - Route Map.pdf
+                           922521 .a.. r/rrwxrwxrwx 0        0        944273   C:/MapData/RouteMaps/Buachaille Etive Mor - Route Map.pdf
+                           331152 .a.. r/rrwxrwxrwx 0        0        944277   C:/MapData/RouteMaps/Glencoe Lochan trails - Route Map.pdf
+                           753822 .a.. r/rrwxrwxrwx 0        0        944283   C:/MapData/RouteMaps/Lost Valley (Coire Gabhail), Glen Coe - Route Map.pdf
+Fri Jan 25 2013 17:54:28   495956 m... r/rrwxrwxrwx 0        0        212408   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-7.jpg
+Fri Jan 25 2013 17:58:24   322953 m... r/rrwxrwxrwx 0        0        212392   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-2.jpg
+Fri Jan 25 2013 17:58:26   276706 m... r/rrwxrwxrwx 0        0        212396   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-3.jpg
+Fri Jan 25 2013 17:58:28   341603 m... r/rrwxrwxrwx 0        0        212400   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-4.jpg
+Fri Jan 25 2013 17:58:34   295089 m... r/rrwxrwxrwx 0        0        212368   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-3.jpg
+Fri Jan 25 2013 17:58:40   213834 m... r/rrwxrwxrwx 0        0        412681   C:/Images/Etive/WildLife/Stag(Landscape).jpg
+Fri Jan 25 2013 17:58:42   231422 m... r/rrwxrwxrwx 0        0        212372   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-4.jpg (deleted)
+Fri Jan 25 2013 17:58:50   331152 m... r/rrwxrwxrwx 0        0        944277   C:/MapData/RouteMaps/Glencoe Lochan trails - Route Map.pdf
+Fri Jan 25 2013 17:58:52   175199 m... r/rrwxrwxrwx 0        0        383625   C:/Images/Etive/Glen/LowCloud.jpg
+Fri Jan 25 2013 17:59:24   123715 m... r/rrwxrwxrwx 0        0        212388   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-1.jpg
+Fri Jan 25 2013 17:59:28   786755 m... r/rrwxrwxrwx 0        0        212360   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-1.jpg
+Fri Jan 25 2013 17:59:32   311487 m... r/rrwxrwxrwx 0        0        412678   C:/Images/Etive/WildLife/Stag(BW).jpg
+Fri Jan 25 2013 17:59:36   563811 m... r/rrwxrwxrwx 0        0        412684   C:/Images/Etive/WildLife/Stag(Rannoch Moor).jpg
+Fri Jan 25 2013 17:59:44  1046534 m... r/rrwxrwxrwx 0        0        212364   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-2.jpg
+Fri Jan 25 2013 18:02:26  1510886 m... r/rrwxrwxrwx 0        0        834704   C:/MapData/Images/GlenEtive.jpg
+Fri Jan 25 2013 18:06:20  3340246 m... r/rrwxrwxrwx 0        0        103047   C:/Images/AonachEagach/AonachEagachRidgeNorth.jpg
+Fri Jan 25 2013 18:06:32   146767 m... r/rrwxrwxrwx 0        0        103050   C:/Images/AonachEagach/AonachEagachRidgeSouth.jpg
+Fri Jan 25 2013 18:06:46  1135231 m... r/rrwxrwxrwx 0        0        834702   C:/MapData/Images/GlenCreran.jpg
+Fri Jan 25 2013 18:07:12   397221 m... r/rrwxrwxrwx 0        0        834699   C:/MapData/Images/GlenCoe.jpg
+Fri Jan 25 2013 18:07:24   418547 m... r/rrwxrwxrwx 0        0        383623   C:/Images/Etive/Glen/GlencoeLochan.jpg
+Fri Jan 25 2013 18:14:24   449805 m... r/rrwxrwxrwx 0        0        459411   C:/Images/LandScapes/Costal/CostalLandscape-5.jpg
+Fri Jan 25 2013 18:14:50   313046 m... r/rrwxrwxrwx 0        0        551824   C:/Images/LandScapes/Highlands/Landscape03.jpg (deleted)
+Fri Jan 25 2013 18:15:06   350316 m... r/rrwxrwxrwx 0        0        504458   C:/Images/LandScapes/Harbours/HarbourLandscape-2.jpg
+Fri Jan 25 2013 18:15:16   248664 m... r/rrwxrwxrwx 0        0        504467   C:/Images/LandScapes/Harbours/HarbourLandscape-5.jpg
+Fri Jan 25 2013 18:15:28   493151 m... r/rrwxrwxrwx 0        0        551815   C:/Images/LandScapes/Highlands/Landscape00.jpg
+Fri Jan 25 2013 18:15:58   273500 m... r/rrwxrwxrwx 0        0        212376   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-1.jpg
+Fri Jan 25 2013 18:16:00   371233 m... r/rrwxrwxrwx 0        0        551851   C:/Images/LandScapes/Highlands/Landscape12.jpg
+Fri Jan 25 2013 18:16:04   359579 m... r/rrwxrwxrwx 0        0        504464   C:/Images/LandScapes/Harbours/HarbourLandscape-4.jpg
+Fri Jan 25 2013 18:16:08   309821 m... r/rrwxrwxrwx 0        0        459399   C:/Images/LandScapes/Costal/CostalLandscape-1.jpg
+Fri Jan 25 2013 18:16:12   327632 m... r/rrwxrwxrwx 0        0        383628   C:/Images/Etive/Glen/ThreeSisters.jpg
+Fri Jan 25 2013 18:16:14   328973 m... r/rrwxrwxrwx 0        0        551830   C:/Images/LandScapes/Highlands/Landscape05.jpg
+Fri Jan 25 2013 18:16:28   329224 m... r/rrwxrwxrwx 0        0        551836   C:/Images/LandScapes/Highlands/Landscape07.jpg (deleted)
+Fri Jan 25 2013 18:16:32   440859 m... r/rrwxrwxrwx 0        0        551845   C:/Images/LandScapes/Highlands/Landscape10.jpg
+Fri Jan 25 2013 18:16:34   372434 m... r/rrwxrwxrwx 0        0        504455   C:/Images/LandScapes/Harbours/HarbourLandscape-1.jpg
+Fri Jan 25 2013 18:16:44   329543 m... r/rrwxrwxrwx 0        0        551827   C:/Images/LandScapes/Highlands/Landscape04.jpg
+Fri Jan 25 2013 18:16:48   410970 m... r/rrwxrwxrwx 0        0        551821   C:/Images/LandScapes/Highlands/Landscape02.jpg
+Fri Jan 25 2013 18:16:52   387096 m... r/rrwxrwxrwx 0        0        551833   C:/Images/LandScapes/Highlands/Landscape06.jpg
+Fri Jan 25 2013 18:17:06   401335 m... r/rrwxrwxrwx 0        0        551818   C:/Images/LandScapes/Highlands/Landscape01.jpg
+Fri Jan 25 2013 18:17:08   384864 m... r/rrwxrwxrwx 0        0        447238   C:/Images/LandScapes/CityScapes/Edinburgh.jpg
+Fri Jan 25 2013 18:17:10   290187 m... r/rrwxrwxrwx 0        0        551842   C:/Images/LandScapes/Highlands/Landscape09.jpg
+Fri Jan 25 2013 18:17:28   345380 m... r/rrwxrwxrwx 0        0        551839   C:/Images/LandScapes/Highlands/Landscape08.jpg
+Fri Jan 25 2013 18:17:32   175388 m... r/rrwxrwxrwx 0        0        504461   C:/Images/LandScapes/Harbours/HarbourLandscape-3.jpg
+Fri Jan 25 2013 18:17:44   220687 m... r/rrwxrwxrwx 0        0        459402   C:/Images/LandScapes/Costal/CostalLandscape-2.jpg
+Fri Jan 25 2013 18:17:50   164781 m... r/rrwxrwxrwx 0        0        459405   C:/Images/LandScapes/Costal/CostalLandscape-3.jpg
+Fri Jan 25 2013 18:17:52   283491 m... r/rrwxrwxrwx 0        0        459408   C:/Images/LandScapes/Costal/CostalLandscape-4.jpg
+Fri Jan 25 2013 18:18:52   435853 m... r/rrwxrwxrwx 0        0        551848   C:/Images/LandScapes/Highlands/Landscape11.jpg (deleted)
+Fri Jan 25 2013 18:31:10     2162 m... r/rrwxrwxrwx 0        0        101012   C:/WalkingDirections/StacPollaidh.txt
+Fri Jan 25 2013 18:31:26     6032 m... r/rrwxrwxrwx 0        0        101024   C:/WalkingDirections/WanderingWildWest.txt (deleted)
+Fri Jan 25 2013 18:31:46     2329 m... r/rrwxrwxrwx 0        0        101018   C:/WalkingDirections/TorridonTrek.txt (deleted)
+Fri Jan 25 2013 18:32:02     3232 m... r/rrwxrwxrwx 0        0        101004   C:/WalkingDirections/MurderHole.txt
+Fri Jan 25 2013 18:32:10     4269 m... r/rrwxrwxrwx 0        0        101001   C:/WalkingDirections/MoorfootHills.txt (deleted)
+Fri Jan 25 2013 18:32:18     4178 m... r/rrwxrwxrwx 0        0        101015   C:/WalkingDirections/ThreeBrethren.txt
+Fri Jan 25 2013 18:32:28     3293 m... r/rrwxrwxrwx 0        0        101006   C:/WalkingDirections/NorthFace.txt
+Fri Jan 25 2013 18:32:56     4098 m... r/rrwxrwxrwx 0        0        101035   C:/WalkingDirections/WalkingOnWater.txt~
+Fri Jan 25 2013 18:33:04     3547 m... r/rrwxrwxrwx 0        0        101032   C:/WalkingDirections/PapOfGlencoe.txt~
+Fri Jan 25 2013 18:33:22     3697 m... r/rrwxrwxrwx 0        0        101029   C:/WalkingDirections/GlenCoe.txt~
+Fri Jan 25 2013 18:33:32     4025 m... r/rrwxrwxrwx 0        0        834695   C:/MapData/Images/AonachEagach.jpg
+Fri Jan 25 2013 18:42:04   753822 m... r/rrwxrwxrwx 0        0        944283   C:/MapData/RouteMaps/Lost Valley (Coire Gabhail), Glen Coe - Route Map.pdf
+Fri Jan 25 2013 18:42:32   423896 m... r/rrwxrwxrwx 0        0        944269   C:/MapData/RouteMaps/Blackwater Reservoir, Kinlochleven - Route Map.pdf
+Fri Jan 25 2013 18:43:40   922521 m... r/rrwxrwxrwx 0        0        944273   C:/MapData/RouteMaps/Buachaille Etive Mor - Route Map.pdf
+Fri Jan 25 2013 18:43:56   693165 m... r/rrwxrwxrwx 0        0        944264   C:/MapData/RouteMaps/Aonach Eagach - Route Map.pdf
+Fri Jan 25 2013 19:12:46   449170 m... r/rrwxrwxrwx 0        0        834697   C:/MapData/Images/Cullins.jpg
+Fri Jan 25 2013 19:19:50     4096 m... d/drwxrwxrwx 0        0        212234   C:/Images/Etive/WildLife
+Fri Jan 25 2013 19:20:44     4096 m... d/drwxrwxrwx 0        0        447110   C:/Images/LandScapes/CityScapes
+Fri Jan 25 2013 20:08:24  3224217 m... r/rrwxrwxrwx 0        0        6        C:/WHW_Booklet_2012_final.pdf (deleted)
+Fri Jan 25 2013 20:24:50     4096 m... d/drwxrwxrwx 0        0        102918   C:/Images/AonachEagach
+                             4096 m... d/drwxrwxrwx 0        0        102920   C:/Images/Etive
+                             4096 m... d/drwxrwxrwx 0        0        102922   C:/Images/LandScapes
+                             4096 m... d/drwxrwxrwx 0        0        11       C:/Images
+                             4096 m... d/drwxrwxrwx 0        0        13       C:/MapData
+                             4096 m... d/drwxrwxrwx 0        0        212232   C:/Images/Etive/Glen
+                             4096 m... d/drwxrwxrwx 0        0        447112   C:/Images/LandScapes/Costal
+                             4096 m... d/drwxrwxrwx 0        0        447114   C:/Images/LandScapes/Harbours
+                             4096 m... d/drwxrwxrwx 0        0        705158   C:/MapData/GPX WayPoints
+                             4096 m... d/drwxrwxrwx 0        0        705160   C:/MapData/Images
+                             4096 m... d/drwxrwxrwx 0        0        705162   C:/MapData/RouteMaps
+Fri Jan 25 2013 20:34:40        0 m..b r/rrwxrwxrwx 0        0        3        C:/ETIVE       (Volume Label Entry)
+Fri Jan 25 2013 20:35:14  3224217 ...b r/rrwxrwxrwx 0        0        6        C:/WHW_Booklet_2012_final.pdf (deleted)
+Fri Jan 25 2013 20:35:20     4269 ...b r/rrwxrwxrwx 0        0        101001   C:/WalkingDirections/MoorfootHills.txt (deleted)
+                             3232 ...b r/rrwxrwxrwx 0        0        101004   C:/WalkingDirections/MurderHole.txt
+                             3293 ...b r/rrwxrwxrwx 0        0        101006   C:/WalkingDirections/NorthFace.txt
+                             2162 ...b r/rrwxrwxrwx 0        0        101012   C:/WalkingDirections/StacPollaidh.txt
+                             4178 ...b r/rrwxrwxrwx 0        0        101015   C:/WalkingDirections/ThreeBrethren.txt
+                             2329 ...b r/rrwxrwxrwx 0        0        101018   C:/WalkingDirections/TorridonTrek.txt (deleted)
+                             6032 ...b r/rrwxrwxrwx 0        0        101024   C:/WalkingDirections/WanderingWildWest.txt (deleted)
+Fri Jan 25 2013 20:35:34     4096 ...b d/drwxrwxrwx 0        0        102918   C:/Images/AonachEagach
+                             4096 ...b d/drwxrwxrwx 0        0        102920   C:/Images/Etive
+                             4096 ...b d/drwxrwxrwx 0        0        102922   C:/Images/LandScapes
+                          3340246 ...b r/rrwxrwxrwx 0        0        103047   C:/Images/AonachEagach/AonachEagachRidgeNorth.jpg
+                           146767 ...b r/rrwxrwxrwx 0        0        103050   C:/Images/AonachEagach/AonachEagachRidgeSouth.jpg
+                             4096 ...b d/drwxrwxrwx 0        0        11       C:/Images
+                             4096 ...b d/drwxrwxrwx 0        0        212232   C:/Images/Etive/Glen
+                             4096 ...b d/drwxrwxrwx 0        0        212234   C:/Images/Etive/WildLife
+                           786755 ...b r/rrwxrwxrwx 0        0        212360   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-1.jpg
+                          1046534 ...b r/rrwxrwxrwx 0        0        212364   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-2.jpg
+                           295089 ...b r/rrwxrwxrwx 0        0        212368   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-3.jpg
+                           231422 ...b r/rrwxrwxrwx 0        0        212372   C:/Images/Etive/Buachaille/BuachailleEtiveMor-AutumnScape-4.jpg (deleted)
+                           273500 ...b r/rrwxrwxrwx 0        0        212376   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-1.jpg
+                           123715 ...b r/rrwxrwxrwx 0        0        212388   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-1.jpg
+                           322953 ...b r/rrwxrwxrwx 0        0        212392   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-2.jpg
+                           276706 ...b r/rrwxrwxrwx 0        0        212396   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-3.jpg
+                           341603 ...b r/rrwxrwxrwx 0        0        212400   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-4.jpg
+                           495956 ...b r/rrwxrwxrwx 0        0        212408   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-7.jpg
+                           418547 ...b r/rrwxrwxrwx 0        0        383623   C:/Images/Etive/Glen/GlencoeLochan.jpg
+                           175199 ...b r/rrwxrwxrwx 0        0        383625   C:/Images/Etive/Glen/LowCloud.jpg
+                           327632 ...b r/rrwxrwxrwx 0        0        383628   C:/Images/Etive/Glen/ThreeSisters.jpg
+                           311487 ...b r/rrwxrwxrwx 0        0        412678   C:/Images/Etive/WildLife/Stag(BW).jpg
+                           213834 ...b r/rrwxrwxrwx 0        0        412681   C:/Images/Etive/WildLife/Stag(Landscape).jpg
+                           563811 ...b r/rrwxrwxrwx 0        0        412684   C:/Images/Etive/WildLife/Stag(Rannoch Moor).jpg
+                             4096 ...b d/drwxrwxrwx 0        0        447110   C:/Images/LandScapes/CityScapes
+                             4096 ...b d/drwxrwxrwx 0        0        447112   C:/Images/LandScapes/Costal
+                             4096 ...b d/drwxrwxrwx 0        0        447114   C:/Images/LandScapes/Harbours
+                             4096 ...b d/drwxrwxrwx 0        0        447116   C:/Images/LandScapes/Highlands
+                           384864 ...b r/rrwxrwxrwx 0        0        447238   C:/Images/LandScapes/CityScapes/Edinburgh.jpg
+                           309821 ...b r/rrwxrwxrwx 0        0        459399   C:/Images/LandScapes/Costal/CostalLandscape-1.jpg
+                           220687 ...b r/rrwxrwxrwx 0        0        459402   C:/Images/LandScapes/Costal/CostalLandscape-2.jpg
+                           164781 ...b r/rrwxrwxrwx 0        0        459405   C:/Images/LandScapes/Costal/CostalLandscape-3.jpg
+                           283491 ...b r/rrwxrwxrwx 0        0        459408   C:/Images/LandScapes/Costal/CostalLandscape-4.jpg
+                           449805 ...b r/rrwxrwxrwx 0        0        459411   C:/Images/LandScapes/Costal/CostalLandscape-5.jpg
+                           372434 ...b r/rrwxrwxrwx 0        0        504455   C:/Images/LandScapes/Harbours/HarbourLandscape-1.jpg
+                           350316 ...b r/rrwxrwxrwx 0        0        504458   C:/Images/LandScapes/Harbours/HarbourLandscape-2.jpg
+                           175388 ...b r/rrwxrwxrwx 0        0        504461   C:/Images/LandScapes/Harbours/HarbourLandscape-3.jpg
+                           359579 ...b r/rrwxrwxrwx 0        0        504464   C:/Images/LandScapes/Harbours/HarbourLandscape-4.jpg
+                           248664 ...b r/rrwxrwxrwx 0        0        504467   C:/Images/LandScapes/Harbours/HarbourLandscape-5.jpg
+                           493151 ...b r/rrwxrwxrwx 0        0        551815   C:/Images/LandScapes/Highlands/Landscape00.jpg
+                           401335 ...b r/rrwxrwxrwx 0        0        551818   C:/Images/LandScapes/Highlands/Landscape01.jpg
+                           410970 ...b r/rrwxrwxrwx 0        0        551821   C:/Images/LandScapes/Highlands/Landscape02.jpg
+                           313046 ...b r/rrwxrwxrwx 0        0        551824   C:/Images/LandScapes/Highlands/Landscape03.jpg (deleted)
+                           329543 ...b r/rrwxrwxrwx 0        0        551827   C:/Images/LandScapes/Highlands/Landscape04.jpg
+                           328973 ...b r/rrwxrwxrwx 0        0        551830   C:/Images/LandScapes/Highlands/Landscape05.jpg
+                           387096 ...b r/rrwxrwxrwx 0        0        551833   C:/Images/LandScapes/Highlands/Landscape06.jpg
+                           329224 ...b r/rrwxrwxrwx 0        0        551836   C:/Images/LandScapes/Highlands/Landscape07.jpg (deleted)
+                           345380 ...b r/rrwxrwxrwx 0        0        551839   C:/Images/LandScapes/Highlands/Landscape08.jpg
+                           290187 ...b r/rrwxrwxrwx 0        0        551842   C:/Images/LandScapes/Highlands/Landscape09.jpg
+                           440859 ...b r/rrwxrwxrwx 0        0        551845   C:/Images/LandScapes/Highlands/Landscape10.jpg
+                           435853 ...b r/rrwxrwxrwx 0        0        551848   C:/Images/LandScapes/Highlands/Landscape11.jpg (deleted)
+                           371233 ...b r/rrwxrwxrwx 0        0        551851   C:/Images/LandScapes/Highlands/Landscape12.jpg
+Fri Jan 25 2013 20:35:40     4096 ...b d/drwxrwxrwx 0        0        13       C:/MapData
+                             4096 ...b d/drwxrwxrwx 0        0        705158   C:/MapData/GPX WayPoints
+                             4096 ...b d/drwxrwxrwx 0        0        705160   C:/MapData/Images
+                             4096 ...b d/drwxrwxrwx 0        0        705162   C:/MapData/RouteMaps
+                            15983 ...b r/rrwxrwxrwx 0        0        705287   C:/MapData/GPX WayPoints/aonacheagach.gpx
+                            29092 ...b r/rrwxrwxrwx 0        0        705290   C:/MapData/GPX WayPoints/blackwater.gpx
+                          4075446 ...b r/rrwxrwxrwx 0        0        705293   C:/MapData/GPX WayPoints/buachailleetivebeag.gpx
+                             7331 ...b r/rrwxrwxrwx 0        0        705296   C:/MapData/GPX WayPoints/buachailleetivemor.gpx
+                             3186 ...b r/rrwxrwxrwx 0        0        705299   C:/MapData/GPX WayPoints/papofglencoe.kmz
+                             4025 ...b r/rrwxrwxrwx 0        0        834695   C:/MapData/Images/AonachEagach.jpg
+                           449170 ...b r/rrwxrwxrwx 0        0        834697   C:/MapData/Images/Cullins.jpg
+                           397221 ...b r/rrwxrwxrwx 0        0        834699   C:/MapData/Images/GlenCoe.jpg
+                          1135231 ...b r/rrwxrwxrwx 0        0        834702   C:/MapData/Images/GlenCreran.jpg
+                          1510886 ...b r/rrwxrwxrwx 0        0        834704   C:/MapData/Images/GlenEtive.jpg
+                           693165 ...b r/rrwxrwxrwx 0        0        944264   C:/MapData/RouteMaps/Aonach Eagach - Route Map.pdf
+                           423896 ...b r/rrwxrwxrwx 0        0        944269   C:/MapData/RouteMaps/Blackwater Reservoir, Kinlochleven - Route Map.pdf
+                           922521 ...b r/rrwxrwxrwx 0        0        944273   C:/MapData/RouteMaps/Buachaille Etive Mor - Route Map.pdf
+                           331152 ...b r/rrwxrwxrwx 0        0        944277   C:/MapData/RouteMaps/Glencoe Lochan trails - Route Map.pdf
+                           753822 ...b r/rrwxrwxrwx 0        0        944283   C:/MapData/RouteMaps/Lost Valley (Coire Gabhail), Glen Coe - Route Map.pdf
+Fri Jan 25 2013 20:36:26   353621 m..b r/rrwxrwxrwx 0        0        212380   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-2.jpg
+Fri Jan 25 2013 20:36:44   392549 m..b r/rrwxrwxrwx 0        0        212384   C:/Images/Etive/Buachaille/BuachailleEtiveMor-LandScape-3.jpg
+Fri Jan 25 2013 20:37:00   347316 m..b r/rrwxrwxrwx 0        0        212404   C:/Images/Etive/Buachaille/BuachailleEtiveMor-WinterScape-6.jpg
+Fri Jan 25 2013 20:37:18     4096 ...b d/drwxrwxrwx 0        0        212230   C:/Images/Etive/Buachaille
+                           147479 m..b r/rrwxrwxrwx 0        0        212411   C:/Images/Etive/Buachaille/BuachailleEtiveMor.jpg (deleted)
+                           147479 m..b r/rrwxrwxrwx 0        0        212414   C:/Images/Etive/Buachaille/.goutputstream-II4RRW (deleted)
+Fri Jan 25 2013 20:37:44     3686 m..b r/rrwxrwxrwx 0        0        100998   C:/WalkingDirections/GlenCoe.txt (deleted)
+                             3697 ...b r/rrwxrwxrwx 0        0        101029   C:/WalkingDirections/GlenCoe.txt~
+Fri Jan 25 2013 20:37:58     3538 m..b r/rrwxrwxrwx 0        0        101009   C:/WalkingDirections/PapOfGlencoe.txt (deleted)
+                             3547 ...b r/rrwxrwxrwx 0        0        101032   C:/WalkingDirections/PapOfGlencoe.txt~
+Fri Jan 25 2013 20:38:14     4089 m..b r/rrwxrwxrwx 0        0        101021   C:/WalkingDirections/WalkingOnWater.txt
+                             4089 m..b r/rrwxrwxrwx 0        0        101027   C:/WalkingDirections/.gedit-save-RMEMRW (deleted)
+                             4098 ...b r/rrwxrwxrwx 0        0        101035   C:/WalkingDirections/WalkingOnWater.txt~
+                             4096 ...b d/drwxrwxrwx 0        0        9        C:/WalkingDirections
+Fri Jan 25 2013 20:39:26     4096 m... d/drwxrwxrwx 0        0        212230   C:/Images/Etive/Buachaille
+Fri Jan 25 2013 20:39:54     4096 m... d/drwxrwxrwx 0        0        447116   C:/Images/LandScapes/Highlands
+Fri Jan 25 2013 20:40:36     4096 m... d/drwxrwxrwx 0        0        9        C:/WalkingDirections

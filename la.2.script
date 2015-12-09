@@ -1,0 +1,12 @@
+Script started on Wed 09 Dec 2015 13:54:53 GMT
+[2015-12-09 13:54:53]student@caine:~$ sudo m[Kfind /mnt/analysis -tyoe f -exec md5s um {} \; > fileHash.list &&ch[K[K chmod.list.[K[K[K[K[K[K 444 fileHash.list && wc -l fileHash.list && md 5sum fileHash.list > fileHash.list.md5 &&fiel[K[K[K[K fileHash.list.md5 [C[1@c[1@h[1@m[1@o[1@d[1@ [1@4[1@4[1@4[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C&& cat fil eHAsh.[K[K[K[Kash.list.md5[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce f -exec md5sum {} \; > fileHash.list && chmod 444 fileHash.list && wc -l fileHash.list && md5sum fileHash.list > fileHash.list.md5 && chmod 444 fileHash.list.md5 && cat fileH[1Pash.list.md5[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpe f -exec md5sum {} \; > fileHash.list && chmod 444 fileHash.list && wc -l fileHash.list && md5sum fileHash.list > fileHash.list.md5 && chmod 444 fileHash.list.md5 && cat fileHash.list.md5[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[sudo] password for student: 
+64 fileHash.list
+333c0b4929f5a37d0cde51a690004ca7  fileHash.list
+[2015-12-09 14:00:54]student@caine:~$ exit
+
+Script done on Wed 09 Dec 2015 14:00:58 GMT
