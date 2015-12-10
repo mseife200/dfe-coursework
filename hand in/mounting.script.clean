@@ -1,0 +1,33 @@
+Script started on Wed 09 Dec 2015 11:25:00 GMT
+[2015-12-09 11:25:00]student@caine:~$ cd ~forensicD/forensicD[C[C[C[C[C[C[C[C[Cata/
+[2015-12-09 11:25:09]student@caine:~/forensicData$ md5sum image[K[K[K[K[Ksdb[K[K[K[K[K[K[K[K[K[Kls -al 
+total 321292
+drwxrwxr-x  2 student student      4096 Dec  9 00:51 [0m[01;34m.[0m
+drwxr-xr-x 43 student student      4096 Dec  9 11:25 [01;34m..[0m
+-rw-r--r--  1 root    root    328978944 Dec  9 00:51 sdb1.image.dd
+-r--r--r--  1 student student        44 Dec  9 00:39 sdb1.md5
+-r--r--r--  1 student student        52 Dec  9 00:42 sdb1.sha1
+[2015-12-09 11:25:22]student@caine:~/forensicData$ md5sum sdb1.image.dd 
+f25d0ec976f58f001103292047dc42f3  sdb1.image.dd
+[2015-12-09 11:25:38]student@caine:~/forensicData$ sudo mkdir /mnr[Kt/analysis
+[sudo] password for student: 
+[2015-12-09 11:25:50]student@caine:~/forensicData$ file ~/forensicData/image[1Pimage[1Pimage[1Pimage[1Pimage[1Pimage[1Pimage[1Pmage[1Pimage[1Pimage[1Pimage[1Pimage[1Pimage[1Pimage[1Pimage[1Pimage[1Pimage image[C[C[C[C[C[K[K[K[K[Ksdb1.[K.image.dd 
+sdb1.image.dd: x86 boot sector, mkdosfs boot message display, code offset 0x58, OEM-ID " mkdosfs", sectors/cluster 8, Media descriptor 0xf8, heads 64, sectors 642536 (volumes > 32 MB) , FAT (32 bit), sectors/FAT 627, serial number 0xbc3740fe, label: "ETIVE      "
+[2015-12-09 11:26:26]student@caine:~/forensicData$ sudo mount -o vfat[C[1@-[1@t[1P[1P vfat[C[C[C[C[C -o ro,noex ec,loop sdb1.image.dd /mnt/analysis
+[2015-12-09 11:27:05]student@caine:~/forensicData$ mu[Kount
+/dev/sda1 on / type ext4 (rw,errors=remount-ro)
+proc on /proc type proc (rw,noexec,nosuid,nodev)
+sysfs on /sys type sysfs (rw,noexec,nosuid,nodev)
+none on /sys/fs/fuse/connections type fusectl (rw)
+none on /sys/kernel/debug type debugfs (rw)
+none on /sys/kernel/security type securityfs (rw)
+udev on /dev type devtmpfs (rw,mode=0755)
+devpts on /dev/pts type devpts (rw,noexec,nosuid,gid=5,mode=0620)
+tmpfs on /run type tmpfs (rw,noexec,nosuid,size=10%,mode=0755)
+none on /run/lock type tmpfs (rw,noexec,nosuid,nodev,size=5242880)
+none on /run/shm type tmpfs (rw,nosuid,nodev)
+gvfs-fuse-daemon on /var/lib/lightdm/.gvfs type fuse.gvfs-fuse-daemon (rw,nosuid,nodev,user=lightdm)
+/home/student/forensicData/sdb1.image.dd on /mnt/analysis type vfat (ro,noexec)
+[2015-12-09 11:27:10]student@caine:~/forensicData$ exit
+
+Script done on Wed 09 Dec 2015 11:27:36 GMT

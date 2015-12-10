@@ -1,0 +1,8 @@
+Script started on Wed 09 Dec 2015 14:45:52 GMT
+[2015-12-09 14:45:52]student@caine:~$ d [K[Kcd ~/forensicData/
+[2015-12-09 14:45:57]student@caine:~/forensicData$ file[K[K[Knd [K[K[Kind /mnt/analysis/ -type f - exec file {} \; >fiel[K[Kle[K[K[K[K fileinf[K[K[KInformation.list && md[K[Kcho[Kmod 444 fileInformationlist[K[K[K[K.list && md5s um fileIO[Knformation.list f[K> fileInformation.list.md5
+[2015-12-09 14:47:07]student@caine:~/forensicData$ cat viel[K[K[K[KfileInformation.list.md5  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K 
+64854efd0c18d7929a5e38d3df48155a  fileInformation.list
+[2015-12-09 14:47:23]student@caine:~/forensicData$ exit
+
+Script done on Wed 09 Dec 2015 14:47:25 GMT
